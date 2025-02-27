@@ -1,0 +1,6 @@
+1.	Buat akun GitHub
+2.	Buat repository GitHub
+3.	Clone repository ke local
+4.	Buat branch baru dengan nama develop
+5.	Menambahkan file text.txt ke brach develop (add, commit, push)
+6.	Merge branch ke develop main
